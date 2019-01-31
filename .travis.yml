@@ -1,6 +1,6 @@
 language: python 
 python: 
-- "2.0"
+- "2"
 - "3.6"
 services:
 - postgresql
